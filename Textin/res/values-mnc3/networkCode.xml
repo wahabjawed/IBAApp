@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mobileCode">
+        <item>332</item>
+        <item>331</item>
+         <item>315</item>
+        
+    </string-array>
+    
+</resources>
